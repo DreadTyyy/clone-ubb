@@ -26,7 +26,11 @@ module.exports = {
         "patern-square": "url('/assets/patern/square.svg')",
         "patern-divider": "url('/assets/patern/divider bottom.svg')",
         pendidikan: "url('/assets/pendidikan.webp')",
+        penelitian: "url('/assets/penelitian.webp')",
+        pengabdian: "url('/assets/pengabdian.webp')",
         "jurnalisme-warga": "url('/assets/jurnalisme-warga.webp')",
+        layanan: "url('/assets/layanan.webp')",
+        ppksp: "url('/assets/ppksp.webp')",
       },
       fontFamily: {
         myfont: "Roboto Condensed",

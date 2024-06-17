@@ -4,10 +4,6 @@
   box-sizing: border-box;
 }
 
-.caption-figure {
-  transform: none !important;
-}
-
 @media (max-width: 768px) {
   * {
     font-size: 98%;
