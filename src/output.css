@@ -963,6 +963,10 @@ video {
   background-image: url('/assets/jurnalisme-warga.webp');
 }
 
+.bg-layanan {
+  background-image: url('/assets/layanan.webp');
+}
+
 .bg-patern-square {
   background-image: url('/assets/patern/square.svg');
 }
@@ -981,10 +985,6 @@ video {
 
 .bg-ppksp {
   background-image: url('/assets/ppksp.webp');
-}
-
-.bg-layanan {
-  background-image: url('/assets/layanan.webp');
 }
 
 .bg-auto {
@@ -1041,6 +1041,11 @@ video {
   padding-bottom: 0.25rem;
 }
 
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
 .py-12 {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -1074,6 +1079,11 @@ video {
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
+}
+
+.py-9 {
+  padding-top: 2.25rem;
+  padding-bottom: 2.25rem;
 }
 
 .pb-1 {
